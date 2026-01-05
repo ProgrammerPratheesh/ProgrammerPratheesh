@@ -21,7 +21,7 @@
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/pratheesh-m-gowda/">
+  <a href="https://www.linkedin.com/in/pratheesh-m-gowda-5611a0236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/mr.pmgowda">
