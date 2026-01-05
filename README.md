@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects (Pinned)
 
-### 📌 Learning Management System (LMS)
+### 📌 Library Management System (LMS)
 - Spring Boot CRUD Application
 - REST APIs using Controller, Service & Repository layers
 - MySQL + Spring Data JPA
